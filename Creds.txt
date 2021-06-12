@@ -1,0 +1,4 @@
+API_KEY = 'f54e21fa3a2a0160595bb058179bfb1e'
+AWS_Secret= "test121212121"
+AWS_ACCESSKEY="testaccess"
+Password : dnksnfkskfsd
